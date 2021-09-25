@@ -17,12 +17,6 @@
       "text": "Meeting at School",
       "day": "May 6th at 1:30pm",
       "reminder": false
-    },
-    {
-      "text": "Test",
-      "day": "May 7th",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
